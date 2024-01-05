@@ -1,6 +1,9 @@
 <!-- Introduction -->
 # Hey there! 👋 I'm Kawin
 <p align="center">
+  <img src="https://i.gifer.com/origin/1a/1a1925b1de116058e74cecebbce92eb6_w200.webp"  alt="HI">
+</p>
+<p align="center">
   <a href="https://github.com/evolkavi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=&weight=10000&duration=1500&pause=1000&color=961EB6&center=true&vCenter=true&random=true&width=435&lines=Computer+Application+Undergraduate;Full+Stack+Developer;Open+Source+Evangelist;"></a>
 </p>
 
